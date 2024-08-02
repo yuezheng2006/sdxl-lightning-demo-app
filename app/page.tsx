@@ -8,7 +8,7 @@ import { Input } from "@/components/ui/input";
 import { ModelIcon } from "@/components/icons/model-icon";
 import Link from "next/link";
 
-const DISABLED = true;
+const DISABLED = false;
 const DEFAULT_PROMPT =
   "A cinematic shot of a baby raccoon wearing an intricate italian priest robe";
 
